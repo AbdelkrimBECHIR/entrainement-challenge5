@@ -1,5 +1,9 @@
 [Kendji Girac]
-J'ai pas compris l'poids des mots, à tous le même fardeau
+<<<<<<< HEAD
+J'ai pas compris l'poids des mots, il n'y a aucun fardeau
+=======
+
+>>>>>>> branch2
 Je ne regarderai plus derrière moi, si il le faut, je roulerai sans rétro’
 Mais le temps à tout effacé, avec le temps tout s'en va
 J'aimerais te parler de ces choses qui s'en vont et ne reviennent pas
